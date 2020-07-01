@@ -1,1 +1,1 @@
-lồn mẹ mày haha
+ Tạo method main cho phép nhập vào đường dẫn của file nguồn, đường dẫn của thư mục đích và gọi 2 method trên và kiểm tra kết quả
